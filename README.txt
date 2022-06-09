@@ -5,7 +5,3 @@
 - 💞️ I’m looking to collaborate on creating solutions on Artificial Intelligence and Blockchain
 - 📫 You can reach me on LinkedIn https://www.linkedin.com/in/happy-chukwuma-678234132/ or on Whatsapp https://wa.link/894xwz
 
-<!---
-happychuks/happychuks is a ✨ special ✨ repository because its `README.txt` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
