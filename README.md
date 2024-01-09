@@ -17,10 +17,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🔭 I contribute to both frontend and backend projects for building web applications.
 - 🌱 Currently exploring Technical Content Writing.
 - ⚡ In my free time I solve problems on hackerrank, watch tech podcasts and read tech articles.
-- 📫 How to reach me:
-- &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-happyfelixchukwuma-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/happyfelixchukwuma)
-- &nbsp; [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:happychukwuma@gmail.com)
-- &nbsp; [X (formerly Twitter)](https://twitter.com/Chukwuma__Happy)
+
+📫 How to reach me:
+  - &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-happyfelixchukwuma-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/happyfelixchukwuma)
+  - &nbsp; [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:happychukwuma@gmail.com)
+  - &nbsp; [X (formerly Twitter)](https://twitter.com/Chukwuma__Happy)
 
 ---
 
