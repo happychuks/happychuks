@@ -14,7 +14,7 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- 🔭 I contribute to both frontend and backend projects for building web applications.
+- 🔭 I contribute to both backend and frontend projects.
 - 🔭 I have keen interest in AI/ML and DevOps projects.
 - 🌱 Currently exploring Technical Content Writing.
 - ⚡ In my free time I solve problems on hackerrank, watch tech podcasts and read tech articles.
