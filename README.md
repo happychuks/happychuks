@@ -68,9 +68,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### 🔥 &nbsp; My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=happychuks&theme=github-light&exclude_days=Sun%2CSat&card_width=1000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=happychuks&theme=vision-friendly-light&exclude_days=Sun%2CSat&card_width=495)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=happychuks&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
+
+![Happy's GitHub stats](https://github-readme-stats.vercel.app/api?username=happychuks&show_icons=true&theme=vision-friendly-light)
 
 ---
 
