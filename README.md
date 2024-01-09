@@ -21,8 +21,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 📫 How to reach me:
   - &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-happyfelixchukwuma-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/happyfelixchukwuma)
-  - &nbsp; [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:happychukwuma@gmail.com)
   - &nbsp; [![X (formerly Twitter)](https://im.rediff.com/news/2023/jul/24twitter.jpg?w=40&h=40)](https://twitter.com/Chukwuma__Happy)
+  - &nbsp; [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:happychukwuma@gmail.com)
+ 
 
 ---
 
