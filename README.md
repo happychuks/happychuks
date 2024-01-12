@@ -27,7 +27,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-## 🛠 &nbsp;Languages and Tools :
+## 🛠 &nbsp;Languages and Tools
 
 ### &nbsp;Backend :
 <p>
@@ -51,7 +51,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 </p>
 
-### &nbsp;Others :
+### &nbsp;Others technologies:
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
@@ -66,7 +66,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### 🔥 &nbsp; My Stats :
+### 🔥 &nbsp; My Profile Stats :
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=happychuks&theme=vision-friendly-light&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
