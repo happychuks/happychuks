@@ -12,7 +12,7 @@
 
 ## :man_technologist: &nbsp;About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I am a Full Stack Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 - 🔭 I contribute to both backend and frontend projects.
 - 🔭 I have keen interest in AI/ML and DevOps projects.
