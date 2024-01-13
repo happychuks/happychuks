@@ -14,9 +14,10 @@
 
 I am a Full Stack Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
+- 🌱 I am currently working on Django Web Framework project.
 - 🔭 I contribute to both backend and frontend projects.
 - 🔭 I have keen interest in AI/ML and DevOps projects.
-- 🌱 Currently exploring Technical Content Writing.
+- 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I solve problems on hackerrank, watch tech podcasts and read tech articles.
 
 📫 How to reach me:
