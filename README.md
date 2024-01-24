@@ -69,7 +69,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ### 🔥 &nbsp; My Profile Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=happychuks&theme=vision-friendly-light&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=happychuks&theme=vision-friendly-light)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=happychuks&layout=compact&theme=vision-friendly-light)
 
