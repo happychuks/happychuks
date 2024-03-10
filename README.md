@@ -14,11 +14,11 @@
 
 I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- 🌱 I am currently working on Django Web Framework project.
+- 🌱 I am currently building stuffs using Django Web and rest Frameworks.
 - 🔭 I contribute to both backend and frontend projects.
 - 🔭 I have keen interest in AI/ML and DevOps projects.
 - 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time I solve problems on hackerrank, watch tech podcasts and read tech articles.
+- ⚡ In my free time I contribute to stackoverflow, solve coding challenge on hackerrank, watch tech podcasts, and read tech articles.
 
 📫 How to reach me:
   - &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-happyfelixchukwuma-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/happyfelixchukwuma)
