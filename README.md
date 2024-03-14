@@ -81,5 +81,6 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 <!-- BLOG-POST-LIST:START -->
 - [Elevating Software Development: The Imperative Role of Version Control in Professional Settings](https://www.linkedin.com/posts/happyfelixchukwuma_versioncontrol-professionaldevelopment-softwareengineering-activity-7149257019277942785-bg2H?utm_source=share&utm_medium=member_desktop)
 - [Hashing](https://www.linkedin.com/feed/update/urn:li:activity:7144072377314811904?utm_source=share&utm_medium=member_desktop)
+- [Devin - World's first AI Software Engineer](https://www.linkedin.com/pulse/meet-devin-worlds-first-ai-software-engineer-what-does-chukwuma-sqvse/?trackingId=dbr40%2FFLSMetStzc18Gn%2Bw%3D%3D)
 
 <!-- BLOG-POST-LIST:END -->
