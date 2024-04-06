@@ -42,4 +42,13 @@ src="https://img.shields.io/twitter/follow/Chukwuma__Happy?logo=twitter&style=fo
 <h2 align="left">Support:</h2>
 <p><a href="https://www.buymeacoffee.com/happychuks"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="happychuks" /></a></p><br><br><br><br><br>
 
+### Blog Posts ✍️: 
+<!-- BLOG-POST-LIST:START -->
+- [Elevating Software Development: The Imperative Role of Version Control in Professional Settings](https://www.linkedin.com/posts/happyfelixchukwuma_versioncontrol-professionaldevelopment-softwareengineering-activity-7149257019277942785-bg2H?utm_source=share&utm_medium=member_desktop)
+- [Hashing](https://www.linkedin.com/feed/update/urn:li:activity:7144072377314811904?utm_source=share&utm_medium=member_desktop)
+- [Devin - World's first AI Software Engineer](https://www.linkedin.com/pulse/meet-devin-worlds-first-ai-software-engineer-what-does-chukwuma-sqvse/?trackingId=dbr40%2FFLSMetStzc18Gn%2Bw%3D%3D)
+
+<!-- BLOG-POST-LIST:END -->
+
+
 ![image](https://i.imgur.com/ozIIEeN.png)
