@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-# [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey+there!+You+Are+Welcome+To+My+Profile;My+Name+Is+HAPPY+FELIX+CHUKWUMA;I+Am+Passionate+About+Coding;I+Learn+By+Doing)](https://git.io/typing-svg)
+# [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hi,+You+Are+Welcome+To+My+Profile;My+Name+Is+HAPPY+FELIX+CHUKWUMA;I+Am+Passionate+About+Coding;I+Learn+By+Doing)](https://git.io/typing-svg)
 
 <h1 align="center">
 Hi, I'm Happy Felix Chukwuma. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
