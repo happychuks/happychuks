@@ -17,9 +17,9 @@ src="https://img.shields.io/twitter/follow/Chukwuma__Happy?logo=twitter&style=fo
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 
-- #### 🌱 I am currently building stuffs using Django Web and rest Frameworks.
+- #### 🌱 I am currently contributing to Web3 projects.
 - #### 🔭 I contribute to both backend and frontend projects.
-- #### 🔭 I have keen interest in AI/ML and DevOps projects.
+- #### 🔭 I have keen interest in AI/ML, Web3 and DevOps projects.
 - #### 🌱 Exploring Technical Content Writing.
 - #### ⚡ In my free time I contribute to stackoverflow, solve coding challenge on hackerrank, watch tech podcasts, and read tech articles.
 - #### 👯 I’m open to collaborate on exciting projects.
