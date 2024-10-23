@@ -7,7 +7,7 @@ Hi, I'm Happy Felix Chukwuma. <img src="https://raw.githubusercontent.com/Martin
 </h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### I am a Software Engineer. `I learn by doing....`
+### I am a Software Engineer. `I love building cool stuffs....`
 
 ![](https://komarev.com/ghpvc/?username=happychuks&style=for-the-badge&color=blue&labelColor=000000)<a href="https://www.github.com/happychuks" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/happychuks?logo=github&style=for-the-badge&color=0C7DBE&labelColor=000000" /></a><a href="https://www.twitter.com/Chukwuma__Happy" target="_blank" rel="noreferrer"><img
@@ -17,7 +17,7 @@ src="https://img.shields.io/twitter/follow/Chukwuma__Happy?logo=twitter&style=fo
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 
-- #### 🌱 I am currently contributing to Web3 projects.
+- #### 🌱 I am currently contributing to open-source projects.
 - #### 🔭 I contribute to both backend and frontend projects.
 - #### 🔭 I have keen interest in AI/ML, Web3 and DevOps projects.
 - #### 🌱 Exploring Technical Content Writing.
@@ -30,6 +30,7 @@ src="https://img.shields.io/twitter/follow/Chukwuma__Happy?logo=twitter&style=fo
 * [LinkedIn](https://www.linkedin.com/in/happyfelixchukwuma/)
 * [Twitter](https://twitter.com/Chukwuma__Happy)
 * [Email](mailto:happychukwuma@gmail.com)
+* [My Portfolio Website](https://codewithfelix.vercel.app/)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
