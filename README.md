@@ -17,7 +17,7 @@ src="https://img.shields.io/twitter/follow/Chukwuma__Happy?logo=twitter&style=fo
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 
-- #### 🌱 I am currently contributing to open-source projects.
+- #### 🌱 Building a cool SaaS at the moment, watchout!!!.
 - #### 🔭 I contribute to both backend and frontend projects.
 - #### 🔭 I have keen interest in AI/ML, Web3 and DevOps projects.
 - #### 🌱 Exploring Technical Content Writing.
@@ -36,7 +36,7 @@ src="https://img.shields.io/twitter/follow/Chukwuma__Happy?logo=twitter&style=fo
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=happychuks&layout=compact)](https://github.com/happychuks/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=happychuks&show_icons=true&theme=radical)
+![Happy's GitHub stats](https://github-readme-stats.vercel.app/api?username=happychuks&show_icons=true&theme=radical)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=happychuks&theme=vision-friendly-light)](https://git.io/streak-stats)
 
