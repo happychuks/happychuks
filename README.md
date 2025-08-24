@@ -10,14 +10,14 @@ Hi, I'm Happy Felix Chukwuma. <img src="https://raw.githubusercontent.com/Martin
 ### I am a Software Engineer. `I love building cool stuffs....`
 
 ![](https://komarev.com/ghpvc/?username=happychuks&style=for-the-badge&color=blue&labelColor=000000)<a href="https://www.github.com/happychuks" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/happychuks?logo=github&style=for-the-badge&color=0C7DBE&labelColor=000000" /></a><a href="https://www.twitter.com/Chukwuma__Happy" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Chukwuma__Happy?logo=twitter&style=for-the-badge&color=0C7DBE&labelColor=000000"
+src="https://img.shields.io/github/followers/happychuks?logo=github&style=for-the-badge&color=0C7DBE&labelColor=000000" /></a><a href="https://www.twitter.com/code_with_Felix" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/code_with_Felix?logo=twitter&style=for-the-badge&color=0C7DBE&labelColor=000000"
 /></a>[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://happyfelixchukwuma.netlify.app/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+2348169953528)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 
-- #### 🌱 Currently building the best [Medical ERP (MAP)](https://mapis4u.com) with some amazing techies, watchout!!!.
+- #### 🌱 Currently building the Smartest LinkedIn Outbound Engine at [Valley](https://joinvalley.co) with some amazing techies, watchout!!!.
 - #### 🔭 I contribute to both backend and frontend projects.
 - #### 🔭 I have keen interest in AI/ML, Web3 and DevOps projects.
 - #### 🌱 Exploring Technical Content Writing.
@@ -28,7 +28,7 @@ src="https://img.shields.io/twitter/follow/Chukwuma__Happy?logo=twitter&style=fo
 
 # Contact 
 * [LinkedIn](https://www.linkedin.com/in/happyfelixchukwuma/)
-* [Twitter](https://twitter.com/Chukwuma__Happy)
+* [Twitter](https://twitter.com/code_with_Felix)
 * [Email](mailto:happychukwuma@gmail.com)
 * [My Portfolio Website](https://codewithfelix.vercel.app/)
 
