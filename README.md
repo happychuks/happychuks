@@ -12,7 +12,7 @@ Hi, I'm Happy Felix Chukwuma. <img src="https://raw.githubusercontent.com/Martin
 ![](https://komarev.com/ghpvc/?username=happychuks&style=for-the-badge&color=blue&labelColor=000000)<a href="https://www.github.com/happychuks" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/happychuks?logo=github&style=for-the-badge&color=0C7DBE&labelColor=000000" /></a><a href="https://www.twitter.com/code_with_Felix" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/code_with_Felix?logo=twitter&style=for-the-badge&color=0C7DBE&labelColor=000000"
-/></a>[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://happyfelixchukwuma.netlify.app/)
+/></a>[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://happyfelixchukwuma.vercel.app/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+2348169953528)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -30,7 +30,7 @@ src="https://img.shields.io/twitter/follow/code_with_Felix?logo=twitter&style=fo
 * [LinkedIn](https://www.linkedin.com/in/happyfelixchukwuma/)
 * [Twitter](https://twitter.com/code_with_Felix)
 * [Email](mailto:happychukwuma@gmail.com)
-* [My Portfolio Website](https://codewithfelix.vercel.app/)
+* [My Portfolio Website](https://happyfelixchukwuma.vercel.app/)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
